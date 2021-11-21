@@ -1,17 +1,14 @@
-Useful links:
+### QA Guru / HW №17
+___
 
-Lesson's repo - https://github.com/qa-guru/simple-rest-assured
 
-Lib assertThat - https://assertj.github.io/doc/
+#### Useful links:
 
-Docs and usage - https://github.com/rest-assured/rest-assured/wiki/usage
-
-Selenide + REST Assured - https://github.com/autotests-cloud/allure-qaguru
-
-REST Assured example - https://github.com/kadehar/rest-assured-example
-
-Parse JSON - https://jsonlint.com/
-
-Transform JSON to POJO - http://www.jsonschema2pojo.org/
-
-Practice - https://reqres.in/
+* <a href="https://github.com/qa-guru/simple-rest-assured">Lesson's repo</a>
+* <a href="https://assertj.github.io/doc/">Lib assertThat</a>
+* <a href="https://github.com/rest-assured/rest-assured/wiki/usage">Docs and usage</a>
+* <a href="https://github.com/autotests-cloud/allure-qaguru">Selenide + REST Assured</a>
+* <a href="https://github.com/kadehar/rest-assured-example">REST Assured example</a>
+* <a href="https://jsonlint.com/">Parse JSON</a>
+* <a href="http://www.jsonschema2pojo.org/">Transform JSON to POJO</a>
+* <a href="https://reqres.in/">ReqRes practice</a>
