@@ -1,4 +1,4 @@
-### QA Guru / HW №17
+### QA Guru / HW №17, 18
 ___
 
 
