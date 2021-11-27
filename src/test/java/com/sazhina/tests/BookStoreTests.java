@@ -109,7 +109,7 @@ public class BookStoreTests {
     }
 
     @Test
-    void authorizeWithShemeTest() {
+    void authorizeWithSchemaTest() {
         String data = "{" +
                 "  \"userName\": \"alex\"," +
                 "  \"password\": \"asdsad#frew_DFS2\"" +
@@ -126,7 +126,7 @@ public class BookStoreTests {
                 .post("https://demoqa.com/Account/v1/GenerateToken")
                 .then()
                 .log().body()
-                .body(matchesJsonSchemaInClasspath("schemas/GenerateTokenScheme.json"))
+                .body(matchesJsonSchemaInClasspath("schemas/GenerateTokenSchema.json"))
                 .body("status", is("Success"))
                 .body("result", is("User authorized successfully."));
     }
