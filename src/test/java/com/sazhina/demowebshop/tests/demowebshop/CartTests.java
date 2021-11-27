@@ -3,7 +3,6 @@ package com.sazhina.demowebshop.tests.demowebshop;
 import com.codeborne.selenide.Selenide;
 import com.sazhina.demowebshop.config.webshop.App;
 import com.sazhina.demowebshop.helpers.AllureRestAssuredFilter;
-import com.sazhina.demowebshop.tests.TestBase;
 import com.codeborne.selenide.Configuration;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
