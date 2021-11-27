@@ -1,7 +1,7 @@
 package com.sazhina.demowebshop.tests.demowebshop;
 
 import com.codeborne.selenide.Selenide;
-import com.sazhina.demowebshop.config.webshop.App;
+import com.sazhina.demowebshop.config.App;
 import com.sazhina.demowebshop.helpers.AllureRestAssuredFilter;
 import com.codeborne.selenide.Configuration;
 import com.sazhina.demowebshop.tests.TestBase;
