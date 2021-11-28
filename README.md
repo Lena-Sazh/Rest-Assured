@@ -1,4 +1,4 @@
-### QA Guru / HW №17, №18
+### QA Guru / HW №17, №18, №19
 ___
 
 
@@ -11,3 +11,5 @@ ___
 * <a href="https://jsonlint.com/">Parse JSON</a>
 * <a href="http://www.jsonschema2pojo.org/">Transform JSON to POJO</a>
 * <a href="https://reqres.in/">ReqRes practice</a>
+* <a href="https://www.baeldung.com/jaxb">Guide to JAXB</a>
+* <a href="https://github.com/javaee/jaxb-v2">JAXB Repo</a>
