@@ -15,7 +15,7 @@ ___
 ___
 
 ### :heavy_check_mark: Implemented API tests
-
+  
 * **Requests:**
   - GET
   - POST
@@ -31,7 +31,7 @@ ___
   - 404
 
  * **Demo Web Shop:**
-   - Autorization
+   - Authorization
    - Addind item to cart with cookie
 
 ___
