@@ -2,6 +2,47 @@
 #### Rest-Assured with Allure logs, Specs, Models, Lombok, Groovy examples
 ___
 
+### Simple API tests examples for [REQ | RES](https://reqres.in/) and [Demo Web Shop](http://demowebshop.tricentis.com/)
+
+## :hammer_and_wrench: Project stack
+
+<code><img height="50" title="Java" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.svg"></code>
+<code><img height="50" title="JUnit 5" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.svg"></code>
+<code><img height="50" title="Gradle" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Gradle.svg"></code>
+<code><img height="50" title="Rest-Assured" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Rest-Assured.svg"></code>
+<code><img height="50" title="Allure Report" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_Report.svg"></code>
+
+___
+
+### :heavy_check_mark: Implemented API tests
+
+* **Requests:**
+  - GET
+  - POST
+  - PUT
+  - PATCH
+  - DELETE
+
+* **Responses:**
+  - 200
+  - 201
+  - 204
+  - 400
+  - 404
+
+ * **Demo Web Shop:**
+   - Autorization
+   - Addind item to cart with cookie
+
+___
+
+### :gear: Run in Terminal
+
+```bash
+gradle clean test
+```
+
+___
 
 #### Useful links:
 
