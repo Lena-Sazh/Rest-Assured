@@ -4,7 +4,7 @@ ___
 
 ### Simple API tests examples for [REQ | RES](https://reqres.in/) and [Demo Web Shop](http://demowebshop.tricentis.com/)
 
-## :hammer_and_wrench: Project stack
+### :hammer_and_wrench: Project stack
 
 <code><img height="50" title="Java" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Java.svg"></code>
 <code><img height="50" title="JUnit 5" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/JUnit5.svg"></code>
