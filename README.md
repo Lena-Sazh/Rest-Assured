@@ -1,3 +1,9 @@
+<p align="right">
+<a href="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lena-sazh.Rest-Assured&color=007B01&style=plastic&logo=Github&text=Hello_Visitors!">
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lena-sazh.Rest-Assured&color=007B01&style=plastic&logo=Github&text=Hello_Visitors!"/>
+</a>
+</p>
+
 ### QA Guru / HW №17, №18, №19
 #### REST-assured with Allure logs, Specs, Models, Lombok, Groovy examples
 ___
