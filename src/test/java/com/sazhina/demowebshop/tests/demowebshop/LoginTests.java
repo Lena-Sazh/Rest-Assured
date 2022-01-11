@@ -117,6 +117,6 @@ public class LoginTests extends TestBase {
                     .statusCode(200);});
 
         open("/wishlist");
-        Selenide.$x("//span[@class='wishlist-qty']").shouldHave(text("(1)"));
+        $("span.wishlist-qty").shouldHave(text("(1)"));
     }
 }

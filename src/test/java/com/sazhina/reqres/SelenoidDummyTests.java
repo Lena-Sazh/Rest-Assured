@@ -1,4 +1,4 @@
-package com.sazhina.tests;
+package com.sazhina.reqres;
 
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;

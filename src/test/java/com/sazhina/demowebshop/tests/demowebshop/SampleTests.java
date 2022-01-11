@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;
 
-public class DemowebshopTests {
+public class SampleTests {
     @Test
     @DisplayName("Successful adding item to cart (API)")
     void addToCartTest() {

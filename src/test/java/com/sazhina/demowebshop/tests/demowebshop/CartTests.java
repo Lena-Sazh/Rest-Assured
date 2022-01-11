@@ -1,6 +1,5 @@
 package com.sazhina.demowebshop.tests.demowebshop;
 
-import com.codeborne.selenide.Selenide;
 import com.sazhina.demowebshop.config.App;
 import com.codeborne.selenide.Configuration;
 import com.sazhina.demowebshop.tests.TestBase;
@@ -11,6 +10,7 @@ import org.junit.jupiter.api.*;
 import org.openqa.selenium.Cookie;
 
 import static com.codeborne.selenide.Condition.text;
+import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 import static io.qameta.allure.Allure.step;
@@ -77,6 +77,6 @@ public class CartTests extends TestBase {
         });
 
         open("/cart");
-        Selenide.$x("//span[@class='cart-qty']").shouldHave(text("(1)"));
+        $("span.cart-qty']").shouldHave(text("(1)"));
     }
 }
