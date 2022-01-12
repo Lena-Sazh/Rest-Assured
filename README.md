@@ -6,6 +6,7 @@
 
 ### QA Guru / HW №17, №18, №19
 #### REST-assured with Allure logs, Specs, Models, Lombok, Groovy examples
+*Switch between branches*
 ___
 
 ### Simple API tests examples for [REQ | RES](https://reqres.in/) and [Demo Web Shop](http://demowebshop.tricentis.com/)
