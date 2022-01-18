@@ -4,8 +4,8 @@
 </a>
 </p>
 
-### QA Guru / HW №17, №18, №19
-#### REST-assured with Allure logs, Specs, Models, Lombok, Groovy examples
+#### QA Guru / HW №17, №18, №19
+### REST-assured with Allure logs, Specs, Models, Lombok, Groovy examples
 *Switch between branches*
 ___
 
