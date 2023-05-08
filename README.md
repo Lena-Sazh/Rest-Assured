@@ -39,7 +39,7 @@ ___
 
  * **Demo Web Shop:**
    - Authorization
-   - Addind item to cart with cookie
+   - Adding item to cart with cookie
 
 ___
 
